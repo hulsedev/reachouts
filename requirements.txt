@@ -1,0 +1,7 @@
+pandas
+selenium
+requests
+selenium
+pyyaml
+ua-parser
+user-agents
